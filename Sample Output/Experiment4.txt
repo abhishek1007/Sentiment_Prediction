@@ -1,0 +1,32 @@
+You have chosen Experiment 4
+
+
+Tree before Pruning
+
+NUMBER of Nodes in the Tree: 251
+
+NUMBER of leaf Nodes in the Tree: 126
+
+Depth: 44
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 68.7
+
+Testing set
+Accuracy: 66.2
+
+
+
+Tree after Pruning
+
+Training set
+Accuracy: 80.7
+
+Validation set
+Accuracy: 73.4
+
+Testing set
+Accuracy: 73.2

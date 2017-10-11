@@ -1,0 +1,190 @@
+You have chosen Experiment 2
+
+
+Orignal Decision Tree
+
+NUMBER of Nodes in the Tree: 251
+
+NUMBER of leaf Nodes in the Tree: 126
+
+Depth: 44
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 68.7
+
+Testing set
+Accuracy: 66.2
+
+
+Decision tree with Threshhold : 0.9
+
+NUMBER of Nodes in the Tree: 181
+
+NUMBER of leaf Nodes in the Tree: 91
+
+Depth: 44
+
+Training set
+Accuracy: 96
+
+Validation set
+Accuracy: 69.3
+
+Testing set
+Accuracy: 67.5
+
+
+Decision tree with Threshhold : 0.8
+
+NUMBER of Nodes in the Tree: 85
+
+NUMBER of leaf Nodes in the Tree: 43
+
+Depth: 30
+
+Training set
+Accuracy: 87
+
+Validation set
+Accuracy: 70.5
+
+Testing set
+Accuracy: 70.5
+
+
+Decision tree with Threshhold : 0.7
+
+NUMBER of Nodes in the Tree: 17
+
+NUMBER of leaf Nodes in the Tree: 9
+
+Depth: 8
+
+Training set
+Accuracy: 75
+
+Validation set
+Accuracy: 70.4
+
+Testing set
+Accuracy: 70.9
+
+
+
+Most commonly used attributes with their index in the vocab file:
+
+44 : 7
+85 : 5
+26 : 5
+15 : 5
+622 : 4
+373 : 4
+368 : 4
+344 : 4
+266 : 4
+240 : 4
+169 : 4
+156 : 4
+77 : 4
+42 : 4
+19 : 4
+10 : 4
+3 : 4
+1639 : 3
+1359 : 3
+1321 : 3
+1312 : 3
+1261 : 3
+1155 : 3
+1065 : 3
+813 : 3
+639 : 3
+494 : 3
+448 : 3
+427 : 3
+422 : 3
+413 : 3
+321 : 3
+270 : 3
+242 : 3
+229 : 3
+134 : 3
+123 : 3
+122 : 3
+109 : 3
+96 : 3
+90 : 3
+87 : 3
+79 : 3
+59 : 3
+48 : 3
+43 : 3
+3524 : 2
+2793 : 2
+1372 : 2
+1235 : 2
+1135 : 2
+1128 : 2
+931 : 2
+748 : 2
+732 : 2
+584 : 2
+568 : 2
+567 : 2
+503 : 2
+484 : 2
+462 : 2
+439 : 2
+395 : 2
+377 : 2
+333 : 2
+309 : 2
+279 : 2
+254 : 2
+176 : 2
+164 : 2
+131 : 2
+126 : 2
+110 : 2
+93 : 2
+91 : 2
+72 : 2
+53 : 2
+51 : 2
+50 : 2
+40 : 2
+27 : 2
+8 : 2
+4 : 2
+2 : 2
+1590 : 1
+1528 : 1
+1384 : 1
+1251 : 1
+1166 : 1
+851 : 1
+578 : 1
+548 : 1
+514 : 1
+428 : 1
+412 : 1
+410 : 1
+406 : 1
+381 : 1
+379 : 1
+355 : 1
+271 : 1
+223 : 1
+181 : 1
+174 : 1
+118 : 1
+84 : 1
+76 : 1
+64 : 1
+24 : 1
+18 : 1
+16 : 1
+12 : 1

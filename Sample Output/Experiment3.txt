@@ -1,0 +1,73 @@
+You have chosen Experiment 3
+
+
+0.5% Corruption of data
+
+NUMBER of Nodes in the Tree: 257
+
+NUMBER of leaf Nodes in the Tree: 129
+
+Depth: 37
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 68.1
+
+Testing set
+Accuracy: 66.6
+
+
+1.0% Corruption of data
+
+NUMBER of Nodes in the Tree: 265
+
+NUMBER of leaf Nodes in the Tree: 133
+
+Depth: 38
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 64.4
+
+Testing set
+Accuracy: 64.7
+
+
+5.0% Corruption of data
+
+NUMBER of Nodes in the Tree: 279
+
+NUMBER of leaf Nodes in the Tree: 140
+
+Depth: 42
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 66.2
+
+Testing set
+Accuracy: 64.2
+
+
+10.0% Corruption of data
+
+NUMBER of Nodes in the Tree: 299
+
+NUMBER of leaf Nodes in the Tree: 150
+
+Depth: 42
+
+Training set
+Accuracy: 100
+
+Validation set
+Accuracy: 62.7
+
+Testing set
+Accuracy: 58.9

@@ -1,0 +1,49 @@
+You have chosen Experiment 5
+
+Number of trees: 50
+
+Atributes used per tree: 500
+
+Forming 50 trees...
+
+
+Training Set
+Accuracy: 100
+
+Validation Set
+Accuracy: 76.2
+
+Testing Set
+Accuracy: 77.7
+
+Number of trees: 100
+
+Atributes used per tree: 500
+
+Forming 100 trees...
+
+
+Training Set
+Accuracy: 100
+
+Validation Set
+Accuracy: 79.3
+
+Testing Set
+Accuracy: 79.5
+
+Number of trees: 200
+
+Atributes used per tree: 500
+
+Forming 200 trees...
+
+
+Training Set
+Accuracy: 100
+
+Validation Set
+Accuracy: 79.9
+
+Testing Set
+Accuracy: 81.5
